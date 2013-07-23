@@ -9,7 +9,7 @@ The rainbow changes colors as it runs. See it in action [here](http://vimeo.com/
 
 Works with RSpec 1.3 and RSpec 2.
 
-Using  Nyan Cat
+Using  Nyan Ca
 ---------------
 
 You can either specify the formatting when using the `rspec` command:
